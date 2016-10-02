@@ -1,0 +1,19 @@
+{
+  "name": "nanodegreefinal",
+  "version": "1.0.0",
+  "description": "\"Npm for my final nanodegree project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fouchimi/NanoDegreeFinal.git"
+  },
+  "author": "Fouchimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fouchimi/NanoDegreeFinal/issues"
+  },
+  "homepage": "https://github.com/fouchimi/NanoDegreeFinal#readme"
+}
